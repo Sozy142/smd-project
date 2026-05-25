@@ -1,0 +1,6 @@
+com/smd/entity/SyllabusStatus.class
+com/smd/entity/Role.class
+com/smd/repository/ApprovalHistoryRepository.class
+com/smd/entity/Syllabus.class
+com/smd/entity/User.class
+com/smd/entity/ApprovalHistory.class
